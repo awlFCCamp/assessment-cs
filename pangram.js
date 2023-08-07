@@ -13,7 +13,7 @@ const isPangram = (str) => {
 };
 
 //time complexity here is O(n)
-//space complexity here is O(1)
+//space complexity here is O(n)
 
 console.log(isPangram("The quick brown fox jumps over the lazy dog!"));
 // -> True
